@@ -38,7 +38,8 @@ service.FindDiagonal(array, resultAux, result);
 #endregion
 
 Console.WriteLine($"Resultado es: {string.Join(",", Enumerable.Repeat(result.character, result.count))}");
-Thread.Sleep(10);
+Console.ReadLine();
+
 
 
 
