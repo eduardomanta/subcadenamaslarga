@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\azure\\subcadenamaslarga\\subcadenmaslarga\\subcadenmaslarga.csproj": {}
+    "D:\\azure\\subcadenamaslarga\\subcadenmaslarga.csproj": {}
   },
   "projects": {
-    "D:\\azure\\subcadenamaslarga\\subcadenmaslarga\\subcadenmaslarga.csproj": {
+    "D:\\azure\\subcadenamaslarga\\subcadenmaslarga.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\azure\\subcadenamaslarga\\subcadenmaslarga\\subcadenmaslarga.csproj",
+        "projectUniqueName": "D:\\azure\\subcadenamaslarga\\subcadenmaslarga.csproj",
         "projectName": "subcadenmaslarga",
-        "projectPath": "D:\\azure\\subcadenamaslarga\\subcadenmaslarga\\subcadenmaslarga.csproj",
+        "projectPath": "D:\\azure\\subcadenamaslarga\\subcadenmaslarga.csproj",
         "packagesPath": "C:\\Users\\EDUARDO\\.nuget\\packages\\",
-        "outputPath": "D:\\azure\\subcadenamaslarga\\subcadenmaslarga\\obj\\",
+        "outputPath": "D:\\azure\\subcadenamaslarga\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
